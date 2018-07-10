@@ -12,7 +12,7 @@
         android:id="@+id/btn_select"
         android:layout_width="match_parent"
         android:layout_height="50dp"
-        android:text="上传图片" />
+        android:text="选择图片" />
 
     <ImageView
         android:id="@+id/img_text"
